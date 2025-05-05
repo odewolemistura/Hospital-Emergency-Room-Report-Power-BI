@@ -12,7 +12,7 @@
   - [Total Overview](#total-overview)
 - [Key Findings](#key-findings)
 - [Recommendations](#recommendations)
-- [Limitations](#limitations)
+
 
 
 ## Project Overview
