@@ -1,5 +1,20 @@
 # 🏥 Hospital Emergency Room Report – Power BI
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Data Description](#data-description)
+- [Tools Used](#tools-used)
+- [Data Cleaning & Preparation](#data-cleaning--preparation)
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+- [Data Analysis & Dashboard Design](#data-analysis--dashboard-design)
+  - [Monthly Overview](#monthly-overview)
+  - [Total Overview](#total-overview)
+- [Key Findings](#key-findings)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
+
+
 ## Project Overview
 This project explores a hospital emergency room dataset to gain insights into patient trends, satisfaction levels, wait times, and referral patterns. Using Power BI, a dynamic dashboard was created to support both **monthly** and **total period analyses**, enabling hospital administrators to optimize operations and resource allocation.
 
