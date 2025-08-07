@@ -62,7 +62,7 @@ Conducted EDA to identify:
 ## Data Analysis & Dashboard Design
 
 ![image alt](https://github.com/odewolemistura/Hospital-Emergency-Room-Report-Power-BI/blob/129850d01e59396f8b6a8c4abb8f875cc92a9bd5/ER%20Dashboard%20I.png)
-![image alt]()
+![image alt](https://github.com/odewolemistura/Hospital-Emergency-Room-Report-Power-BI/blob/87906e3fb992e899b49624d6561b64df370ce892/ER%20Dashboard%20II.png)
 ![image alt]()
 
 ### Monthly Overview
